@@ -32,10 +32,6 @@ text(""+o1, 314, 530);
 text(""+o2, 30, 530);
 }
 
-//mostrar 3 botones
-botonTres(){
-  if(dist(mouseX,mouseY,150,550)<=50){
-  }
 }
 //Circulos
 mostrarC(o1,o2,o3,t1,t2,t3){
