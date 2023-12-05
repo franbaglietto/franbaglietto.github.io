@@ -6,10 +6,7 @@ class byf {
     this.down=500;
     
   }
-//carga de textos
-textos(){
-  
-}
+
 //BOTONES
 //mostrar boton 1
 mostrarBU(o1){
